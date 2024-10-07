@@ -1,0 +1,25 @@
+{
+  "lockedItems": [
+    {
+      "id": 1,
+      "imageUrl": "https://example.com/images/item1.jpg",
+      "discountText": "Get fully charged with 30% Discount",
+      "promotionText": "Modern Furniture",
+      "remainingText": "8 days remaining"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://example.com/images/item2.jpg",
+      "discountText": "50% Off on Electronics",
+      "promotionText": "Tech Expo",
+      "remainingText": "5 days remaining"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://example.com/images/item3.jpg",
+      "discountText": "Save big with 40% Discount",
+      "promotionText": "Sports Gear",
+      "remainingText": "3 days remaining"
+    }
+  ]
+}
