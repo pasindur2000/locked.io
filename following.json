@@ -1,0 +1,46 @@
+{
+  "followingItems": [
+    {
+      "name": "Royal Barber",
+      "imageUrl": "http://i.postimg.cc/1Xxn0LPH/logo1.jpg",
+      "followers": "12K",
+      "likes": "10K",
+      "locked": "5K"
+    },
+    {
+      "name": "Dialog",
+      "imageUrl": "http://i.postimg.cc/x1sWkQyW/R-3-removebg-preview-1.png",
+      "followers": "12K",
+      "likes": "10K",
+      "locked": "5K"
+    },
+    {
+      "name": "SL Airlines",
+      "imageUrl": "http://i.postimg.cc/tCdb48cj/R-5.png",
+      "followers": "12K",
+      "likes": "10K",
+      "locked": "5K"
+    },
+    {
+      "name": "Furniture Shop",
+      "imageUrl": "http://i.postimg.cc/FKHkZySY/logo3.jpg",
+      "followers": "12K",
+      "likes": "10K",
+      "locked": "5K"
+    },
+    {
+      "name": "Abans",
+      "imageUrl": "http://i.postimg.cc/HxmKRLp8/1578971692.jpg",
+      "followers": "12K",
+      "likes": "10K",
+      "locked": "5K"
+    },
+    {
+      "name": "Pizza Hut",
+      "imageUrl": "http://i.postimg.cc/76BV9Pbk/Pizza-Hut-Logo-2014.png",
+      "followers": "12K",
+      "likes": "10K",
+      "locked": "5K"
+    }
+  ]
+}
