@@ -1,0 +1,35 @@
+{
+  "offers": [
+    {
+      "daysRemaining": 12,
+      "title": "My Computer",
+      "points": 30,
+      "imageUrl": "http://i.postimg.cc/wMRr6n7K/L-img2.jpg"
+    },
+    {
+      "daysRemaining": 9,
+      "title": "Ingoude",
+      "points": 100,
+      "imageUrl": "http://i.postimg.cc/5ywyP4q0/4aa9c101ae85bd821c97ef3436649b10.jpg"
+    },
+    {
+      "daysRemaining": 2,
+      "title": "Beer shop",
+      "points": 70,
+      "imageUrl": "http://i.postimg.cc/s2VY78z7/1.png"
+    },
+     {
+      "daysRemaining": 12,
+      "title": "Home Land",
+      "points": 30,
+      "imageUrl": "http://i.postimg.cc/JnFYTm79/L-img3.jpg"
+    },
+     {
+      "daysRemaining": 12,
+      "title": "Burger Hut",
+      "points": 30,
+      "imageUrl": "http://i.postimg.cc/wjtXVJRT/2.png"
+    },
+    
+  ]
+}
