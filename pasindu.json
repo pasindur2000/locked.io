@@ -21,26 +21,6 @@
       "promotionText": "McDonald’s",
       "remainingText": "3 days remaining"
     }
-    {
-      "id": 4,
-      "imageUrl": "http://i.postimg.cc/3x3HBJkd/L-img4.jpg",
-      "discountText": "Get our shoes with 70% Discount",
-      "promotionText": "Sneakers Shop",
-      "remainingText": "3 days remaining"
-    }
-   {
-      "id": 5,
-      "imageUrl": "http://i.im.ge/2024/10/07/k0UpaK.details1.jpeg",
-      "discountText": "Get Discount up to 30%",
-      "promotionText": "Modern Furniture",
-      "remainingText": "8 days remaining"
-    },
-     {
-      "id": 6,
-      "imageUrl": "http://i.postimg.cc/wMRr6n7K/L-img2.jpg",
-      "discountText": "50% Off on Electronics",
-      "promotionText": "Tech Expo",
-      "remainingText": "5 days remaining"
-    },
+    
   ]
 }
