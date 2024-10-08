@@ -1,0 +1,104 @@
+{
+  "tags": [
+    {
+      "id": 1,
+      "category": "City",
+      "tag": "Colombo"
+    },
+    {
+      "id": 2,
+      "category": "City",
+      "tag": "Kandy"
+    },
+    {
+      "id": 3,
+      "category": "City",
+      "tag": "Galle"
+    },
+    {
+      "id": 4,
+      "category": "City",
+      "tag": "Jaffna"
+    },
+    {
+      "id": 5,
+      "category": "City",
+      "tag": "Negombo"
+    },
+    {
+      "id": 6,
+      "category": "Shop",
+      "tag": "Cargills Food City"
+    },
+    {
+      "id": 7,
+      "category": "Shop",
+      "tag": "Keells Super"
+    },
+    {
+      "id": 8,
+      "category": "Shop",
+      "tag": "Arpico Super Center"
+    },
+    {
+      "id": 9,
+      "category": "Shop",
+      "tag": "LAUGFS Supermarket"
+    },
+    {
+      "id": 10,
+      "category": "Shop",
+      "tag": "Abans"
+    },
+    {
+      "id": 11,
+      "category": "Bank",
+      "tag": "Commercial Bank"
+    },
+    {
+      "id": 12,
+      "category": "Bank",
+      "tag": "Hatton National Bank"
+    },
+    {
+      "id": 13,
+      "category": "Bank",
+      "tag": "People's Bank"
+    },
+    {
+      "id": 14,
+      "category": "Bank",
+      "tag": "Sampath Bank"
+    },
+    {
+      "id": 15,
+      "category": "Bank",
+      "tag": "National Savings Bank"
+    },
+    {
+      "id": 16,
+      "category": "Bank",
+      "tag": "Bank of Ceylon"
+    },
+    {
+      "id": 17,
+      "category": "Shop",
+      "tag": "Dialog"
+    },
+    {
+      "id": 18,
+      "category": "Shop",
+      "tag": "Pizza Hut"
+    },
+    {
+      "id": 19,
+      "category": "Shop",
+      "tag": "Sri Lankan Airlines"
+    },
+    {
+      "id": 20,
+      "category": "Shop",
+      "tag": "Furniture Shop"
+    }
+  ]
+}
