@@ -28,13 +28,22 @@
       "points": 70
     },
     {
-      "id": 3,
+      "id": 4,
       "imageUrl": "http://i.postimg.cc/gknzh06d/L-img1.jpg",
       "discountText": "Get fully charged with 30% Discount",
       "promotionText": "McDonald’s",
       "remainingText": "3 days remaining",
       "daysRemaining": 2,
       "points": 70
+    },
+    {
+      "id": 5,
+      "imageUrl": "http://i.im.ge/2024/10/07/k0UpaK.details1.jpeg",
+      "discountText": "Get Discount up to 30%",
+      "promotionText": "Modern Furniture",
+      "remainingText": "8 days remaining",
+      "daysRemaining": 12,
+      "points": 30
     }
   ]
 }
