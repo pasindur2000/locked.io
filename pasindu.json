@@ -6,8 +6,6 @@
       "discountText": "Get Discount up to 30%",
       "promotionText": "Modern Furniture",
       "remainingText": "8 days remaining"
-      "daysRemaining": 12,
-      "points": 30,
     },
     {
       "id": 2,
@@ -15,8 +13,6 @@
       "discountText": "50% Off on Electronics",
       "promotionText": "Tech Expo",
       "remainingText": "5 days remaining"
-      "daysRemaining": 18,
-      "points": 35,
     },
     {
       "id": 3,
@@ -24,8 +20,6 @@
       "discountText": "Get fully charged with 30% Discount",
       "promotionText": "McDonald’s",
       "remainingText": "3 days remaining"
-      "daysRemaining": 2,
-      "points": 70,
     },
    
   ]
