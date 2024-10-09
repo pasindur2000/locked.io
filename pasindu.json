@@ -27,14 +27,6 @@
       "daysRemaining": 2,
       "points": 70,
     },
-    {
-      "id": 4,
-      "imageUrl": "http://i.postimg.cc/wMRr6n7K/L-img2.jpg",
-      "discountText": "50% Off on Electronics",
-      "promotionText": "Tech Expo",
-      "remainingText": "5 days remaining"
-      "daysRemaining": 18,
-      "points": 35,
-    },
+   
   ]
 }
